@@ -307,7 +307,7 @@ input[type="number"] {
   top: 10pc;
 }
 .right_sticky_btn a{
-    top:500px;
+    top:700px;
     position:fixed;
     /*right:-5px;*/
     right:0;
